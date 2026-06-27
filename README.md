@@ -1,4 +1,4 @@
-# AI Data Annotation Portfolio
+# Resume.JSON
 
 Professional portfolio demonstrating structured JSON-based datasets for AI training workflows.
 
