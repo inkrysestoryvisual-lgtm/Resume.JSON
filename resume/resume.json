@@ -1,0 +1,135 @@
+{
+  "personal_information": {
+    "full_name": "WAHYU INDRA WASPADA",
+    "location": "Pekanbaru, Riau, Indonesia",
+    "phone": "+62 81276177071",
+    "email": "inkrysestoryvisual@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/wahyu-indra-waspada-3003911a5"
+  },
+  "professional_summary": "AI Generalist with hands-on experience in AI response evaluation and structured quality assessment workflows. Experienced in reviewing AI-generated outputs, assessing factual consistency, instruction adherence, relevance, and clarity. Familiar with human feedback processes used in AI model improvement pipelines. Strong analytical thinking, attention to detail, and ability to work independently in remote task-based environments.",
+  "core_ai_generalist_competencies": [
+    "AI Output Evaluation & Quality Assessment",
+    "Instruction Following Analysis",
+    "Fact and Consistency Verification",
+    "Prompt Interpretation and Response Evaluation",
+    "Human Feedback Review (AI Training Support)",
+    "Content Quality and Relevance Assessment",
+    "Error Detection in AI-Generated Outputs",
+    "Comparative Response Evaluation",
+    "Guideline-Based Assessment and Annotation",
+    "Critical Thinking in AI Output Review",
+    "Structured Evaluation and Scoring",
+    "Model Behavior Observation"
+  ],
+  "technical_skills": {
+    "ai_and_evaluation_skills": [
+      "AI Response Rating",
+      "AI Quality Evaluation",
+      "Prompt Evaluation",
+      "Output Comparison Analysis",
+      "Instruction Adherence Checking",
+      "Hallucination Detection",
+      "Response Consistency Review",
+      "Human Preference Ranking",
+      "Data Quality Review",
+      "Model Behavior Assessment"
+    ],
+    "data_and_documentation": [
+      "Data Review and Organization",
+      "Basic Data Analysis",
+      "Research-Based Verification",
+      "Documentation and Reporting"
+    ],
+    "tools": [
+      "Google Chrome",
+      "Google Docs",
+      "Google Sheets",
+      "Microsoft Word",
+      "Microsoft Excel",
+      "Adobe Illustrator",
+      "Adobe Photoshop"
+    ]
+  },
+  "key_strengths": [
+    "Strong Attention to Detail",
+    "Critical and Analytical Thinking",
+    "Quality-Oriented Mindset",
+    "Structured Decision Making",
+    "Guideline Adherence",
+    "Independent Problem Solving",
+    "Adaptability to New Projects",
+    "Consistent and Reliable Work Quality",
+    "Remote Work Readiness",
+    "Continuous Learning Mindset"
+  ],
+  "professional_experience": [
+    {
+      "position": "AETHER GENERALIST",
+      "company": "Outlier Freelance",
+      "year": 2026,
+      "responsibilities": [
+        "Participated in AI-related evaluation tasks as an AI Generalist.",
+        "Reviewed and assessed AI-generated outputs according to project requirements.",
+        "Evaluated response quality based on accuracy, relevance, clarity, and instruction adherence.",
+        "Identified inconsistencies and potential quality issues in generated content.",
+        "Applied project guidelines to support the improvement of AI model performance.",
+        "Contributed to quality-focused workflows involving human evaluation and feedback."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "project_name": "Aether Project – AI Generalist",
+      "organization": "Outlier",
+      "year": 2026,
+      "description": [
+        "Evaluated AI-generated responses using project-specific guidelines.",
+        "Assessed response quality, factual consistency, relevance, and instruction adherence.",
+        "Identified response weaknesses and quality issues requiring correction.",
+        "Applied critical thinking and structured evaluation methodologies.",
+        "Contributed human feedback to support AI model improvement processes."
+      ]
+    }
+  ],
+  "professional_development": {
+    "currently_learning": [
+      "AI Response Evaluation Methodologies",
+      "Prompt Engineering Fundamentals",
+      "Prompt Analysis and Assessment",
+      "LLM Evaluation Frameworks",
+      "Human Feedback and AI Alignment Concepts",
+      "Fact Verification Techniques for AI Outputs",
+      "Data Annotation Best Practices",
+      "AI Safety and Content Quality Assessment",
+      "Web Development",
+      "Programming"
+    ]
+  },
+  "education": {
+    "institution": "SMA Negeri 5 Pekanbaru",
+    "major": "Social Sciences (IPS)",
+    "graduated": 2015
+  },
+  "certifications": [
+    {
+      "name": "Adobe Illustrator Digital Certification",
+      "provider": "Skill Academy",
+      "year": 2020
+    },
+    {
+      "name": "Mini Course: Introduction to Data Analytics",
+      "provider": "RevoU",
+      "year": 2023
+    }
+  ],
+  "languages": [
+    {
+      "language": "Indonesian",
+      "proficiency": "Native Proficiency"
+    },
+    {
+      "language": "English",
+      "proficiency": "Basic Working Proficiency"
+    }
+  ]
+}
